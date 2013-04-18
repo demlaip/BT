@@ -1,0 +1,1 @@
+To add new SIde menu buttons, you need to specify corresponding section Id's in style.css file.
